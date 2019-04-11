@@ -6,10 +6,6 @@ def array_with_two_elements
   my_new_array = ["one", "two"]
 end
 
-def indexing
-  taylor_swift
-end
-
 def first_element(taylor_swift)
   taylor_swift[0]
 end
